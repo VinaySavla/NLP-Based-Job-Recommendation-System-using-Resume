@@ -1,9 +1,4 @@
-# Job-Recommendation-System-Using-Resume-Parsing
-
-This project is hosted on Render platform.
-Find here - https://job-recommendation-system-za3f.onrender.com
-
-
+# NLP-Based-Job-Recommendation-System-Using-Resume
 # Introduction:
 
 In the digital age, the recruitment process has undergone a significant transformation, thanks to advancements in machine learning and artificial intelligence. One such revolutionary application is in resume screening, where machine learning algorithms are utilized to automate and enhance the candidate selection process. In this post, we delve into an end-to-end project that leverages machine learning techniques to categorize resumes, provide job recommendations, and extract vital information seamlessly.
